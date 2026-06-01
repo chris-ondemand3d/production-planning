@@ -1,0 +1,23 @@
+# 엑셀 원본 (대용량/민감 데이터)
+*.xlsx
+*.xls
+
+# 실행 결과 노트북 (소스만 관리)
+생산계획_대시보드_실행.ipynb
+
+# 임시 스크립트
+check_priority.py
+fix_applymap.py
+fix_renderer.py
+add_allocation.py
+run_notebook.py
+
+# Jupyter 캐시
+.ipynb_checkpoints/
+iframe_figures/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
