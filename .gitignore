@@ -6,10 +6,11 @@
 생산계획_대시보드_실행.ipynb
 
 # 임시 스크립트
-check_priority.py
-fix_applymap.py
-fix_renderer.py
-add_allocation.py
+add_*.py
+fix_*.py
+check_*.py
+debug_*.py
+update_*.py
 run_notebook.py
 
 # Jupyter 캐시
